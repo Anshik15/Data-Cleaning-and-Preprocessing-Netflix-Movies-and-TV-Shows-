@@ -9,20 +9,19 @@ Jupyter Notebook
 Visual Studio Code
 
 Dataset Overview         
-The dataset contains information about Netflix Movies and TV Shows, with columns such as:
-
-show_id
-type
-title
-director
-cast
-country
-date_added
-release_year
-rating
-duration
-listed_in
-description
+The dataset contains information about Netflix Movies and TV Shows, with columns such as:      
+show_id    
+type     
+title     
+director     
+cast     
+country    
+date_added     
+release_year     
+rating      
+duration     
+listed_in     
+description     
 
 Data Cleaning Steps       
 1. Missing Value Handling      
