@@ -1,4 +1,5 @@
-  Netflix-Movies-and-TV-Shows Dataset Cleaning Project
+etflix-Movies-and-TV-Shows Dataset Cleaning Project
+
 Objective
 The goal of this project was to clean and prepare a raw Netflix dataset by handling missing values, correcting data types, standardizing formats, and ensuring consistency across the data for further analysis or modeling.
 
